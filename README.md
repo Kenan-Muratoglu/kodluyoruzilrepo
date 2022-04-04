@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Resim](https://github.com/Kenan-Muratoglu/kodluyoruzilrepo/blob/main/kodluyoruzgithub.png)
